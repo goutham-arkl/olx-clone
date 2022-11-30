@@ -1,0 +1,11 @@
+*{
+    overflow-x: hidden;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+
+}
+a{
+    color: black;
+}
